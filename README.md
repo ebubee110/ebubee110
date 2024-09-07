@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ebube
 - 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @godswilebube307@gmail.com
 - ⚡ Fun fact: Am 15
